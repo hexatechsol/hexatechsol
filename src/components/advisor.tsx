@@ -91,7 +91,7 @@ export default function SolutionAdvisor() {
                         <FormLabel>Your Requirements</FormLabel>
                         <FormControl>
                           <Textarea
-                            placeholder="e.g., I have a 2000 sq ft house with a south-facing roof. My monthly electricity bill is around $150. I want to monitor my front door, backyard, and garage."
+                            placeholder="Type your requirements"
                             className="min-h-[120px]"
                             {...field}
                           />
