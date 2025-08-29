@@ -10,7 +10,7 @@ const fontInter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "HexaTech Solutions Hub",
+  title: "HexaTech Solutions",
   description: "Your trusted partner for innovative solar and security solutions.",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
